@@ -1,0 +1,5 @@
+# 背景图支持 JPG/PNG 格式时需要安装
+Pillow>=9.0.0
+
+# 打包为 exe 时需要安装
+# pyinstaller>=6.0.0
